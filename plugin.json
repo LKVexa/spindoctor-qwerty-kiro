@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "spindoctor-qwerty",
+  "version": "1.1.0",
+  "description": "SpinDoctor 3.1.2 quantum-circuit SIMULATOR power for Kiro: q.* scripts (1-298 logical qubits), 241 presets, q.folder, theory testing from files or the chat, TXT/PDF/JSON/CSV reports. Bundled stdlib-only Python engine; classical FP64 simulation, not a quantum computer.",
+  "author": {
+    "name": "RUSSELL PHILIP SMITHSON",
+    "email": "russellsmithson77@outlook.com"
+  },
+  "homepage": "https://github.com/LKVexa/spindoctor-qwerty-kiro",
+  "repository": "https://github.com/LKVexa/spindoctor-qwerty-kiro",
+  "license": "GPL-3.0-or-later",
+  "keywords": [
+    "spindoctor",
+    "quantum",
+    "quantum circuit",
+    "quantum-circuit",
+    "qubit",
+    "qubits",
+    "quantum simulator",
+    "simulator",
+    "bell state",
+    "ghz",
+    "qft",
+    "q.circuit",
+    "quantum preset",
+    "theory test"
+  ]
+}
